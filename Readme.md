@@ -1,4 +1,2 @@
-The first time.
-The second time.
-The third time
-The fourth time
+The first time
+The second time
